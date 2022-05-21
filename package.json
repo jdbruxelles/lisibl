@@ -1,0 +1,22 @@
+{
+  "name": "lisibl",
+  "version": "1.0.0",
+  "description": "Lisibl is a tool that makes reading text easier by highlighting the first letters of each word.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdbruxelles/lisibl.git"
+  },
+  "keywords": [
+    "s"
+  ],
+  "author": "jdbruxelles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdbruxelles/lisibl/issues"
+  },
+  "homepage": "https://github.com/jdbruxelles/lisibl#readme"
+}

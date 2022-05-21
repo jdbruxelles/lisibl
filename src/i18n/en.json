@@ -1,0 +1,28 @@
+{
+  "translation": {
+    "site": {
+      "title": "Lisibl",
+      "description": "$t(site.title) is a tool that makes reading text easier by highlighting the first letters of each word."
+    },
+    "options": {
+      "nomarlMode": "Normal mode",
+      "highlightMode": "Highlight mode",
+      "pasteTextHere": "Paste your text here..."
+    },
+    "buttons": {
+      "addText": "Add your own text",
+      "reset": "Reset",
+      "validate": "Validate"
+    },
+    "utils": {
+      "settings": "Options",
+      "githubLink": "View source on GitHub"
+    },
+    "samples": {
+      "0": "Law can be approached in several ways, we speak of objective law to designate the whole of the applicable legal rules which govern the relations between human beings. This broad definition includes public law, Belgian or European law, etc. Next to this set of rules, we also define subjective law, which designates a prerogative (a right) that is attributed to a person and that exists through objective law. This includes human rights, rights of claim, rights of obligation, etc. Subjective law therefore governs the interactions between individuals, as opposed to objective law, which is concerned with the management of people in the broad sense. But one should not imagine that the law is only concerned with these examples, one finds the law everywhere, in the relationship of the pupil at school, the wearing of the mask during the pandemic or family relations.",
+      "1": "Private law governs the relationships of private persons, at the civil level, to manage, among other things, family relationships, the law of succession, the law of obligations. There is also legislation that governs companies and their relations with each other as well as with individuals and consumers. Without forgetting the social law which decides on the interactions around the world of work. It is important to keep in mind that the principles of the rule of law are always applied, for example by protecting against discrimination. In this logic, it is considered that any person who is in the same situation as another, must see his case treated similarly.",
+      "2": "In this category, we find provisions of a mandatory nature. A mandatory rule protects one party to the contract and not the generality of individuals in a given society. It often happens that a provision protects only one party to the contract, for example the employee vis-à-vis his employer in an employment contract; this is typical of the protection of weak parties. A strong party may also be subject to mandatory provisions, which are not reserved for weak parties.",
+      "3": "In the world of work, there is a clear difference between working as an employee or as a self-employed person. The different statuses lead to different treatments. The most important distinction is that the employee is engaged in a subordinate relationship with his employer, whereas the self-employed person chooses and works with clients. The existence of the subordination relationship is qualified by the will of the parties, the freedom to organize the work and the possibility to exercise a hierarchical relationship. The employee is often much better protected than the self-employed person in terms of social security and labour protection, which sometimes leads to contracts being reclassified and explains why the practice of false self-employment is sanctioned."
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "translation": {
+    "site": {
+      "title": "Lisibl",
+      "description": "$t(site.title) est un outil qui facilite la lecture d'un texte en mettant en évidence les premières lettres de chaque mot."
+    },
+    "options": {
+      "nomarlMode": "Mode normal",
+      "highlightMode": "Mode évidence",
+      "pasteTextHere": "Collez votre text ici..."
+    },
+    "buttons": {
+      "addText": "Ajouter votre texte",
+      "reset": "Réinitialiser",
+      "validate": "Valider"
+    },
+    "utils": {
+      "settings": "Options",
+      "githubLink": "Voir la source sur GitHub"
+    },
+    "samples": {
+      "0": "On peut aborder le droit de plusieurs manières, on parle de droit objectif pour désigner l’ensemble des règles juridiques applicables qui régissent les rapports entre êtres humains. Sous cette définition large retombe le droit public, le droit belge ou européen, etc. À côté de cet ensemble de règles, on définit aussi le droit subjectif, qui désigne une prérogative (un droit) qui est attribuée à une personne et qui existe par le droit objectif. On y trouve le droit humain, droit de créance, droit des obligations, etc. Le droit subjectif régit donc les interactions entre individus, a contrario du droit objectif qui se préoccupe de la gestion des personnes au sens large. Mais il ne faut pas imaginer que le droit ne relève que de ces exemples, on trouve le droit partout, dans la relation de l’élève à l’école, du port du masque lors de la pandémie ou des relations familiales.",
+      "1": "Le droit privé encadre les rapports des personnes privées, au niveau civil pour gérer, entre autre, les relations familiales, le droit des successions, le droit des obligations. On trouve aussi une législation encadrant les entreprises et leurs relations aussi bien entre elles qu’avec les particuliers, leurs consommateurs. Sans oublier le droit social qui décide des interactions autour du monde du travail. Il faut garder en tête que les principes de l’État de droit se retrouvent toujours dans l’application, par exemple en protégeant de la discrimination. Dans cette logique, on estime que toute personne qui se trouve dans la même situation qu’une autre, doit voir son cas traité de façon similaire.",
+      "2": "Dans cette catégorie, on retrouve les dispositions d’ordre impératif. Une règle impérative protège une partie au contrat et non plus la généralité des individus d’une société donnée. Il arrive souvent qu’une disposition ne protège qu’une partie au contrat, par l’exemple l’employé vis-à-vis de son employeur dans un contrat de travail; typique de la protection des parties faibles. Une partie forte peut aussi être soumise à des dispositions impératives, elles ne sont pas réservées aux parties faibles.",
+      "3": "Dans le monde du travail, il y a une nette différence l’activité professionnelle en personne physique en tant que travailleur employé ou indépendant. Les statuts différents entrainent des traitements différents. La distinction la plus importante est que l’employé est engagé sous un lien de subordination avec son employeur alors que l’indépendant choisit et travaille avec des clients. On qualifie l’existence du lien de subordination par la volonté des parties, la liberté d’organisation du temps de travail, la liberté d’organiser le travail et la possibilité d’exercer une relation hiérarchique. L’employé est souvent bien mieux protégé que l’indépendant au niveau de la sécurité sociale et de la protection au travail, ce qui amène parfois les contrats à être requalifiés et qui explique pourquoi la pratique de faux indépendants est sanctionnée"
+    }
+  }
+}
