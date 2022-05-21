@@ -1,0 +1,12 @@
+###########################
+# BUILD COMMANDS
+###########################
+[build]
+  # command = ""
+  # functions = "functions"
+  publish = "src/"
+
+[dev]
+  # command = "" # Command to start your dev server
+  # port = 8888 # Port that the dev server will be accessible on
+  publish = "src/" # Folder with the static content for _redirect file
