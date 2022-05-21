@@ -18,6 +18,10 @@ body {
   color: #555;
 }
 
+.site-description {
+  max-width: 600px;
+}
+
 #result {
   font-size: 19px;
 }

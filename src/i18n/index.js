@@ -26,6 +26,8 @@ i18next.init({
     metaEl.content = t("site.description");
   });
 
+  document.querySelector(".site-description").innerText = t("site.description");
+
   const githubOcto = document.querySelector(".github-octo-corner")
   githubOcto.setAttribute("aria-label", t("utils.githubLink"));
   githubOcto.setAttribute("title", t("utils.githubLink"));
