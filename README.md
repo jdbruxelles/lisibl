@@ -2,9 +2,9 @@
 
 # Lisibl
 
-![Lisibl banner](src/assets/banner.png)
+**Lisibl is a tool that makes reading text easier by highlighting the first letters of each word.**
 
-<!--  -->
+![Lisibl banner](src/assets/banner.png)
 
 ## Try it now
 
@@ -12,7 +12,7 @@ Go to [lisibl.bruxelles.dev](https://lisibl.bruxelles.dev/) to start reading.
 
 ## Screenshots
 
-<!-- ![App Screenshot]() -->
+![Highlight screenshot](src/assets/highlight-screenshot.png)
 
 ## Contributing
 
