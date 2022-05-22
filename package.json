@@ -4,7 +4,9 @@
   "description": "Lisibl is a tool that makes reading text easier by highlighting the first letters of each word.",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass src/assets/scss/styles.scss -o src/assets/css",
+    "scss-watch": "npm run scss && node-sass src/assets/scss/styles.scss -wo src/assets/css"
   },
   "repository": {
     "type": "git",
@@ -18,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jdbruxelles/lisibl/issues"
   },
-  "homepage": "https://github.com/jdbruxelles/lisibl#readme"
+  "homepage": "https://github.com/jdbruxelles/lisibl#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
 }

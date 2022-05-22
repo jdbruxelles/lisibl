@@ -7,6 +7,7 @@
   publish = "src/"
 
 [dev]
-  # command = "" # Command to start your dev server
+  command = "npm run scss-watch" # Command to run when starting the dev server
   # port = 8888 # Port that the dev server will be accessible on
   publish = "src/" # Folder with the static content for _redirect file
+  autoLaunch = true # Launches the local server address in your browser
