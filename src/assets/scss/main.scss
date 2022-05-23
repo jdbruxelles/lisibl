@@ -11,19 +11,20 @@ body {
   font-weight: 500;
   text-shadow: 2px 0px 2px #aaa;
   text-decoration: none;
+  position: relative;
   color: #888;
-}
 
-.logo:hover {
-  color: #555;
+  &:hover {
+    color: #555;
+  }
 }
 
 .site-description {
   max-width: 600px;
 }
 
-#result {
-  font-size: 19px;
+#font-size-value {
+  width:100px;
 }
 
 .mg-top-0 {
@@ -31,12 +32,13 @@ body {
 }
 
 .github-octo-corner svg {
-  fill: rgb(241 241 241);
-  color: rgb(96 125 139);
+  fill: rgb(241, 241, 241);
+  color: rgb(96, 125, 139);
   position: absolute;
   top: 0px;
+  left: 0px;
   border: 0px;
-  right: 0px;
+  transform: rotate(270deg);
 }
 
 .bg-header {
