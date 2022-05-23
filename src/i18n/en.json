@@ -7,6 +7,7 @@
     "options": {
       "nomarlMode": "Normal mode",
       "highlightMode": "Highlight mode",
+      "fontSize": "Font size",
       "pasteTextHere": "Paste your text here..."
     },
     "buttons": {
@@ -16,6 +17,8 @@
     },
     "utils": {
       "settings": "Options",
+      "increase": "Increase",
+      "decrease": "Decrease",
       "githubLink": "View source on GitHub"
     },
     "samples": {
