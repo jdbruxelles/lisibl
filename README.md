@@ -4,7 +4,7 @@
 
 **Lisibl is a tool that makes reading text easier by highlighting the first letters of each word.**
 
-![Lisibl banner](src/assets/banner.png)
+![Lisibl banner](src/assets/images/banner.png)
 
 ## Try it now
 
@@ -12,7 +12,7 @@ Go to [lisibl.bruxelles.dev](https://lisibl.bruxelles.dev/) to start reading.
 
 ## Screenshots
 
-![Highlight screenshot](src/assets/highlight-screenshot.png)
+![Highlight screenshot](src/assets/images/highlight-screenshot.png)
 
 ## Contributing
 
