@@ -5,6 +5,7 @@
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ntl dev",
     "scss": "node-sass src/assets/scss/styles.scss -o src/assets/css",
     "scss-watch": "npm run scss && node-sass src/assets/scss/styles.scss -wo src/assets/css"
   },
@@ -13,7 +14,8 @@
     "url": "git+https://github.com/jdbruxelles/lisibl.git"
   },
   "keywords": [
-    "s"
+    "reading",
+    "text-processing"
   ],
   "author": "jdbruxelles",
   "license": "MIT",
