@@ -45,12 +45,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function boldWords(str) {
     const words = str.split(" ");
-    const boldCharLength = 3;
     return words.map(word => {
-      let x = /['’]/.test(word) ? 1 : 0;
+      let boldCharLength = 3;
+      if (/['’-]/.test(word)) boldCharLength++;
+      if (word.length / boldCharLength >= 3) boldCharLength++;
       // if (!/^[a-zA-Z0-9]/.test(word)) return word;
-      return `<b>${word.slice(0, boldCharLength + x)}</b>` +
-        word.slice(boldCharLength + x);
+      return `<b>${word.slice(0, boldCharLength)}</b>` +
+        word.slice(boldCharLength);
     }).join(" ");
   }
 
